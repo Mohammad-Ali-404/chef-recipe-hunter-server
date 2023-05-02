@@ -1,0 +1,54 @@
+[{
+    "chef_id": "ch001",
+    "chef_picture": "https://example.com/melissa-leong.jpg",
+    "chef_name": "Melissa Leong",
+    "years_of_experience": 15,
+    "number_of_recipes": 50,
+    "likes": 10000
+  },
+  
+  {
+    "chef_id": "ch002",
+    "chef_picture": "https://example.com/melissa-leong.jpg",
+    "chef_name": "Dan Hunter",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 15000
+  },
+  
+  {
+    "chef_id": "ch003",
+    "chef_picture": "https://example.com/melissa-leong.jpg",
+    "chef_name": "Emma Dean",
+    "years_of_experience": 10,
+    "number_of_recipes": 80,
+    "likes": 8000
+  },
+  
+  {
+    "chef_id": "ch004",
+        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_name": "Curtis Stone",
+        "years_of_experience": 25,
+        "number_of_recipes": 150,
+        "likes": 18000
+  },
+  
+  {
+    "chef_id": "ch005",
+        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_name": "Maggie Beer",
+        "years_of_experience": 40,
+        "number_of_recipes": 350,
+        "likes": 25000
+  },
+  
+  {
+    "chef_id": "ch006",
+        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_name": "Peter Gilmore",
+        "years_of_experience": 30,
+        "number_of_recipes": 150,
+        "likes": 11000
+  }
+  ]
